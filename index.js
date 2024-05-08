@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Watching Toilet Tower Hub"];
+const statusMessages = ["Watching Toilet Tower Hub","Shin4life","Nate4life];
 
 
 let currentIndex = 0;
